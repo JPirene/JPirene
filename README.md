@@ -1,11 +1,12 @@
-### Olá! Eu sou o Jônatas Pirene! 👋
+## Bem Vindo ao meu GitHub! 👋
 
+### Me encontre em outras redes sociais: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonataspirene/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonataspirene/)
 
 ![JPirene GitHub stats](https://github-readme-stats.vercel.app/api?username=jpirene&show_icons=true&theme=dark)
 
-### Tecnologias que uso no meu dia
+### Tecnologias que estão no meu radar: 
 
 <div style="display: inlene_block">
 <br />
